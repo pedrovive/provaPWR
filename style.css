@@ -1,0 +1,7 @@
+
+/* esse trecho é chamado de reset, ele serve para tirar as margens e espaçamentos internos que são do próprio navegador */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
